@@ -74,8 +74,8 @@ Source:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/waste-classification.git
-   cd waste-classification
+   git clone https://github.com/your-username/dumpster-diving.git
+   cd dumpster-diving
 
 ## Acknowledgments
 
